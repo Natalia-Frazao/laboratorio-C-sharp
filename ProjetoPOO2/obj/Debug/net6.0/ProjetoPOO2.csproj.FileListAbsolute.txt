@@ -1,0 +1,15 @@
+C:\Users\usuario\Desktop\semana 4-Wiz\ProjetoPOO2\obj\Debug\net6.0\ProjetoPOO2.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\semana 4-Wiz\ProjetoPOO2\obj\Debug\net6.0\ProjetoPOO2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\semana 4-Wiz\ProjetoPOO2\obj\Debug\net6.0\ProjetoPOO2.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\semana 4-Wiz\ProjetoPOO2\obj\Debug\net6.0\ProjetoPOO2.AssemblyInfo.cs
+C:\Users\usuario\Desktop\semana 4-Wiz\ProjetoPOO2\obj\Debug\net6.0\ProjetoPOO2.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\semana 4-Wiz\ProjetoPOO2\bin\Debug\net6.0\ProjetoPOO2.exe
+C:\Users\usuario\Desktop\semana 4-Wiz\ProjetoPOO2\bin\Debug\net6.0\ProjetoPOO2.deps.json
+C:\Users\usuario\Desktop\semana 4-Wiz\ProjetoPOO2\bin\Debug\net6.0\ProjetoPOO2.runtimeconfig.json
+C:\Users\usuario\Desktop\semana 4-Wiz\ProjetoPOO2\bin\Debug\net6.0\ProjetoPOO2.dll
+C:\Users\usuario\Desktop\semana 4-Wiz\ProjetoPOO2\bin\Debug\net6.0\ProjetoPOO2.pdb
+C:\Users\usuario\Desktop\semana 4-Wiz\ProjetoPOO2\obj\Debug\net6.0\ProjetoPOO2.dll
+C:\Users\usuario\Desktop\semana 4-Wiz\ProjetoPOO2\obj\Debug\net6.0\refint\ProjetoPOO2.dll
+C:\Users\usuario\Desktop\semana 4-Wiz\ProjetoPOO2\obj\Debug\net6.0\ProjetoPOO2.pdb
+C:\Users\usuario\Desktop\semana 4-Wiz\ProjetoPOO2\obj\Debug\net6.0\ProjetoPOO2.genruntimeconfig.cache
+C:\Users\usuario\Desktop\semana 4-Wiz\ProjetoPOO2\obj\Debug\net6.0\ref\ProjetoPOO2.dll
