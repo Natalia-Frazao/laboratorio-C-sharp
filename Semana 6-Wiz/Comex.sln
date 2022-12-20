@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Comex.Models", "Comex.Models.csproj", "{956A5734-FE41-4206-9D3C-9F1F0354AD4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Comex", "..\comex\Comex.csproj", "{22DBC905-EF36-4DB3-8EAB-EEDDE9239DD8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Itens de Solução", "Itens de Solução", "{C2F7F484-2D07-4172-9667-B04173C562D7}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\numericwordsconversion.2.0.0.nupkg = ..\..\..\numericwordsconversion.2.0.0.nupkg
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{956A5734-FE41-4206-9D3C-9F1F0354AD4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{956A5734-FE41-4206-9D3C-9F1F0354AD4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{956A5734-FE41-4206-9D3C-9F1F0354AD4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{956A5734-FE41-4206-9D3C-9F1F0354AD4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22DBC905-EF36-4DB3-8EAB-EEDDE9239DD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22DBC905-EF36-4DB3-8EAB-EEDDE9239DD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22DBC905-EF36-4DB3-8EAB-EEDDE9239DD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22DBC905-EF36-4DB3-8EAB-EEDDE9239DD8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6D77EB6-E755-409F-9C4D-D4C39021EAC2}
+	EndGlobalSection
+EndGlobal

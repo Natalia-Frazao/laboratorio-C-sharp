@@ -1,0 +1,12 @@
+C:\Users\usuario\Desktop\Curso de C#\Comex.Models\Comex.Models\bin\Debug\net6.0\Comex.Models.deps.json
+C:\Users\usuario\Desktop\Curso de C#\Comex.Models\Comex.Models\bin\Debug\net6.0\Comex.Models.dll
+C:\Users\usuario\Desktop\Curso de C#\Comex.Models\Comex.Models\bin\Debug\net6.0\Comex.Models.pdb
+C:\Users\usuario\Desktop\Curso de C#\Comex.Models\Comex.Models\obj\Debug\net6.0\Comex.Models.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\Curso de C#\Comex.Models\Comex.Models\obj\Debug\net6.0\Comex.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\Curso de C#\Comex.Models\Comex.Models\obj\Debug\net6.0\Comex.Models.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\Curso de C#\Comex.Models\Comex.Models\obj\Debug\net6.0\Comex.Models.AssemblyInfo.cs
+C:\Users\usuario\Desktop\Curso de C#\Comex.Models\Comex.Models\obj\Debug\net6.0\Comex.Models.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Curso de C#\Comex.Models\Comex.Models\obj\Debug\net6.0\Comex.Models.dll
+C:\Users\usuario\Desktop\Curso de C#\Comex.Models\Comex.Models\obj\Debug\net6.0\refint\Comex.Models.dll
+C:\Users\usuario\Desktop\Curso de C#\Comex.Models\Comex.Models\obj\Debug\net6.0\Comex.Models.pdb
+C:\Users\usuario\Desktop\Curso de C#\Comex.Models\Comex.Models\obj\Debug\net6.0\ref\Comex.Models.dll
